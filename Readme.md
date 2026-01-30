@@ -1,6 +1,6 @@
 # OLJ Web Scraper
 
-A Python scraper for [OnlineJobs.ph](https://www.onlinejobs.ph) that extracts job listings and saves them as Excel files organized by posted date.
+A Python scraper for [OnlineJobs.ph](https://www.onlinejobs.ph) that extracts most recent job listings and saves them as Excel files organized by posted date.
 
 ---
 
